@@ -13,4 +13,4 @@ Aplicacion web que saluda por pantalla
 
 ## Strint 2
 - [ ] mejorar la interfaz grafica
-- [ ] poner confetti
+- [x] poner confetti
