@@ -1,7 +1,15 @@
 # Saludator
 
 ## Descripcion
+Ejercicio de una aplicacion web que te saluda por pantalla
+
+## Descripcion
 Aplicacion web que saluda por pantalla
+
+## Tecnologias 
+- html
+- css
+- js (vanilla)
 
 ## Etapas
 
@@ -9,8 +17,8 @@ Aplicacion web que saluda por pantalla
 - [x] crear la estructura html
 - [x] aplicar estilos con css
 - [x] dotar de comprtamiento con js
-- [ ] deploy
+- [x] deploy
 
 ## Strint 2
-- [ ] mejorar la interfaz grafica
+- [x] mejorar la interfaz grafica
 - [x] poner confetti
