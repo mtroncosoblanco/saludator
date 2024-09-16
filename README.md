@@ -3,8 +3,8 @@
 ## Descripcion
 Ejercicio de una aplicacion web que te saluda por pantalla
 
-## Descripcion
-Aplicacion web que saluda por pantalla
+## Enlace github
+https://mtroncosoblanco.github.io/saludator/
 
 ## Tecnologias 
 - html
